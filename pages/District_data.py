@@ -2,7 +2,7 @@ import streamlit as st
 from main import raw_data
 from main import grouped
 import sys
-import cv2
+#import cv2
 import pathlib
 import os
 from PIL import Image
