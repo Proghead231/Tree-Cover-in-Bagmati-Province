@@ -1,7 +1,6 @@
 ﻿name: python-gis
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - streamlit=1.10.0=pyhd8ed1ab_1
   - streamlit-folium=0.6.12=pyhd8ed1ab_0
